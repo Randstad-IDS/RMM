@@ -1,5 +1,5 @@
 /*
-@File: Seku Template Styles
+@File: Randstad Technologies Template Styles
 
 * This file contains the styling for the actual template, this
 is the file you need to edit to change the look of the
@@ -8547,14 +8547,14 @@ Section Title Wrap CSS
 }
 
 /*
-Seku New Navbar Area CSS
+Randstad Technologies New Navbar Area CSS
 ======================================================*/
-.seku-new-nav-area .container-fluid {
+.Randstad Technologies-new-nav-area .container-fluid {
   padding-left: 30px;
   padding-right: 30px;
 }
 
-.seku-new-nav-area .navbar-area .main-nav {
+.Randstad Technologies-new-nav-area .navbar-area .main-nav {
   background-color: transparent;
   -webkit-box-shadow: none;
           box-shadow: none;
@@ -8562,12 +8562,12 @@ Seku New Navbar Area CSS
   padding-bottom: 0;
 }
 
-.seku-new-nav-area .navbar-area .main-nav .navbar {
+.Randstad Technologies-new-nav-area .navbar-area .main-nav .navbar {
   padding-left: 0;
   padding-right: 0;
 }
 
-.seku-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item a {
+.Randstad Technologies-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item a {
   font-size: 16px;
   color: #0e0129;
   text-transform: capitalize;
@@ -8578,22 +8578,22 @@ Seku New Navbar Area CSS
   position: relative;
 }
 
-.seku-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item a i {
+.Randstad Technologies-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item a i {
   font-size: 20px;
   line-height: 0;
   position: relative;
   top: 5px;
 }
 
-.seku-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item a:hover {
+.Randstad Technologies-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item a:hover {
   color: #d80650;
 }
 
-.seku-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item a.active {
+.Randstad Technologies-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item a.active {
   color: #d80650;
 }
 
-.seku-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item .dropdown-menu {
+.Randstad Technologies-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item .dropdown-menu {
   background-color: #ffffff;
   border: none;
   border-radius: 0;
@@ -8608,7 +8608,7 @@ Seku New Navbar Area CSS
           transform: scaleX(0);
 }
 
-.seku-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item .dropdown-menu li a {
+.Randstad Technologies-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item .dropdown-menu li a {
   font-size: 14px;
   color: #0e0129;
   position: relative;
@@ -8619,7 +8619,7 @@ Seku New Navbar Area CSS
   position: relative;
 }
 
-.seku-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item .dropdown-menu li a::before {
+.Randstad Technologies-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item .dropdown-menu li a::before {
   content: "";
   position: absolute;
   bottom: -1px;
@@ -8631,7 +8631,7 @@ Seku New Navbar Area CSS
   transition: all 0.5s;
 }
 
-.seku-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item .dropdown-menu li a i {
+.Randstad Technologies-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item .dropdown-menu li a i {
   float: right;
   top: 12px;
   -webkit-transition: all 0.5s;
@@ -8639,40 +8639,40 @@ Seku New Navbar Area CSS
   font-size: 20px;
 }
 
-.seku-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item .dropdown-menu li a:hover {
+.Randstad Technologies-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item .dropdown-menu li a:hover {
   color: #d80650;
   background-color: #f3f3f3;
 }
 
-.seku-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item .dropdown-menu li a:hover::before {
+.Randstad Technologies-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item .dropdown-menu li a:hover::before {
   width: 100%;
   left: 0;
   right: auto;
 }
 
-.seku-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item .dropdown-menu li a.active {
+.Randstad Technologies-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item .dropdown-menu li a.active {
   color: #d80650;
   background-color: #f3f3f3;
 }
 
-.seku-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item .dropdown-menu li .dropdown-menu {
+.Randstad Technologies-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item .dropdown-menu li .dropdown-menu {
   left: 100%;
   -webkit-transform: scaleX(0);
           transform: scaleX(0);
   top: 0;
 }
 
-.seku-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item .dropdown-menu li:last-child a {
+.Randstad Technologies-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item .dropdown-menu li:last-child a {
   border-bottom: none;
 }
 
-.seku-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item .dropdown-menu li:hover .dropdown-menu {
+.Randstad Technologies-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item .dropdown-menu li:hover .dropdown-menu {
   top: 0px !important;
   -webkit-transform: scaleX(1);
           transform: scaleX(1);
 }
 
-.seku-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item:hover ul {
+.Randstad Technologies-new-nav-area .navbar-area .main-nav nav .navbar-nav .nav-item:hover ul {
   opacity: 1;
   visibility: visible;
   top: 100%;
@@ -8680,7 +8680,7 @@ Seku New Navbar Area CSS
           transform: scaleX(1);
 }
 
-.seku-new-nav-area .navbar-area.is-sticky {
+.Randstad Technologies-new-nav-area .navbar-area.is-sticky {
   position: fixed;
   top: 0;
   left: 0;
@@ -8697,26 +8697,26 @@ Seku New Navbar Area CSS
   width: 100% !important;
 }
 
-.seku-new-nav-area .others-option {
+.Randstad Technologies-new-nav-area .others-option {
   margin-left: 30px;
 }
 
-.seku-new-nav-area .others-option .option-item {
+.Randstad Technologies-new-nav-area .others-option .option-item {
   color: #212121;
   display: inline-block;
   margin-right: 20px;
   position: relative;
 }
 
-.seku-new-nav-area .others-option .option-item:last-child {
+.Randstad Technologies-new-nav-area .others-option .option-item:last-child {
   margin-right: 0;
 }
 
-.seku-new-nav-area .others-option .option-item .search-overlay {
+.Randstad Technologies-new-nav-area .others-option .option-item .search-overlay {
   display: none;
 }
 
-.seku-new-nav-area .others-option .option-item .search-overlay.search-popup {
+.Randstad Technologies-new-nav-area .others-option .option-item .search-overlay.search-popup {
   position: absolute;
   top: 100%;
   width: 500px;
@@ -8729,11 +8729,11 @@ Seku New Navbar Area CSS
   margin-top: 20px;
 }
 
-.seku-new-nav-area .others-option .option-item .search-overlay.search-popup .search-form {
+.Randstad Technologies-new-nav-area .others-option .option-item .search-overlay.search-popup .search-form {
   position: relative;
 }
 
-.seku-new-nav-area .others-option .option-item .search-overlay.search-popup .search-form .search-input {
+.Randstad Technologies-new-nav-area .others-option .option-item .search-overlay.search-popup .search-form .search-input {
   display: block;
   width: 100%;
   height: 50px;
@@ -8748,11 +8748,11 @@ Seku New Navbar Area CSS
   padding-left: 15px;
 }
 
-.seku-new-nav-area .others-option .option-item .search-overlay.search-popup .search-form .search-input:focus {
+.Randstad Technologies-new-nav-area .others-option .option-item .search-overlay.search-popup .search-form .search-input:focus {
   border-color: #d80650;
 }
 
-.seku-new-nav-area .others-option .option-item .search-overlay.search-popup .search-form .search-button {
+.Randstad Technologies-new-nav-area .others-option .option-item .search-overlay.search-popup .search-form .search-button {
   position: absolute;
   right: 0;
   top: 0;
@@ -8767,11 +8767,11 @@ Seku New Navbar Area CSS
   padding: 0;
 }
 
-.seku-new-nav-area .others-option .option-item .search-overlay.search-popup .search-form .search-button:hover {
+.Randstad Technologies-new-nav-area .others-option .option-item .search-overlay.search-popup .search-form .search-button:hover {
   background-color: #0e0129;
 }
 
-.seku-new-nav-area .others-option .option-item .search-btn {
+.Randstad Technologies-new-nav-area .others-option .option-item .search-btn {
   cursor: pointer;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
@@ -8781,11 +8781,11 @@ Seku New Navbar Area CSS
   top: 2.8px;
 }
 
-.seku-new-nav-area .others-option .option-item .search-btn:hover {
+.Randstad Technologies-new-nav-area .others-option .option-item .search-btn:hover {
   color: #d80650;
 }
 
-.seku-new-nav-area .others-option .option-item .close-btn {
+.Randstad Technologies-new-nav-area .others-option .option-item .close-btn {
   cursor: pointer;
   display: none;
   -webkit-transition: all 0.5s;
@@ -8795,12 +8795,12 @@ Seku New Navbar Area CSS
   text-align: center;
 }
 
-.seku-new-nav-area .others-option .option-item .close-btn.active {
+.Randstad Technologies-new-nav-area .others-option .option-item .close-btn.active {
   display: block;
   color: #d80650;
 }
 
-.seku-new-nav-area .others-option .option-item .default-btn {
+.Randstad Technologies-new-nav-area .others-option .option-item .default-btn {
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
@@ -8809,36 +8809,36 @@ Seku New Navbar Area CSS
   background-image: linear-gradient(136.1deg, #D80650 1.84%, #FE5D68 100%);
 }
 
-.seku-new-nav-area.nav-with-black-color {
+.Randstad Technologies-new-nav-area.nav-with-black-color {
   background: #1C0531;
 }
 
-.seku-new-nav-area.nav-with-black-color .navbar-area .main-nav nav .navbar-nav .nav-item a {
+.Randstad Technologies-new-nav-area.nav-with-black-color .navbar-area .main-nav nav .navbar-nav .nav-item a {
   color: #ffffff;
 }
 
-.seku-new-nav-area.nav-with-black-color .navbar-area.is-sticky {
+.Randstad Technologies-new-nav-area.nav-with-black-color .navbar-area.is-sticky {
   background: #1C0531;
 }
 
-.seku-new-nav-area.nav-with-black-color .others-option .option-item .search-btn {
+.Randstad Technologies-new-nav-area.nav-with-black-color .others-option .option-item .search-btn {
   color: #ffffff;
 }
 
-.seku-new-nav-area.nav-with-black-color .others-option .option-item .search-btn:hover {
+.Randstad Technologies-new-nav-area.nav-with-black-color .others-option .option-item .search-btn:hover {
   color: #d80650;
 }
 
-.seku-new-nav-area.nav-with-black-color .others-option .option-item .close-btn {
+.Randstad Technologies-new-nav-area.nav-with-black-color .others-option .option-item .close-btn {
   color: #ffffff;
 }
 
-.seku-new-nav-area.nav-with-black-color .others-option .option-item .close-btn.active {
+.Randstad Technologies-new-nav-area.nav-with-black-color .others-option .option-item .close-btn.active {
   color: #d80650;
 }
 
 /*
-Seku New Top Header CSS
+Randstad Technologies New Top Header CSS
 ======================================================*/
 .new-top-header-area {
   background: #241531;
@@ -9274,17 +9274,17 @@ New Main Banner Area CSS
 }
 
 /*
-Seku Features Area CSS
+Randstad Technologies Features Area CSS
 ======================================================*/
-.seku-features-area.with-black-color {
+.Randstad Technologies-features-area.with-black-color {
   background-color: #000000;
 }
 
-.seku-features-area.with-black-color .single-seku-features-card {
+.Randstad Technologies-features-area.with-black-color .single-Randstad Technologies-features-card {
   background-color: #382549;
 }
 
-.single-seku-features-card {
+.single-Randstad Technologies-features-card {
   background-color: #000000;
   padding: 35px 30px 30px 30px;
   position: relative;
@@ -9294,7 +9294,7 @@ Seku Features Area CSS
   margin-bottom: 25px;
 }
 
-.single-seku-features-card::after {
+.single-Randstad Technologies-features-card::after {
   content: "";
   position: absolute;
   top: 0;
@@ -9307,7 +9307,7 @@ Seku Features Area CSS
   transition: all 0.5s;
 }
 
-.single-seku-features-card h3 {
+.single-Randstad Technologies-features-card h3 {
   margin-bottom: 30px;
   color: #ffffff;
   position: relative;
@@ -9316,7 +9316,7 @@ Seku Features Area CSS
   transition: all 0.5s;
 }
 
-.single-seku-features-card h3 img {
+.single-Randstad Technologies-features-card h3 img {
   position: absolute;
   top: -5px;
   left: 0;
@@ -9324,37 +9324,37 @@ Seku Features Area CSS
   transition: all 0.5s;
 }
 
-.single-seku-features-card p {
+.single-Randstad Technologies-features-card p {
   color: #ABA8AE;
   margin-bottom: 0;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
 }
 
-.single-seku-features-card:hover {
+.single-Randstad Technologies-features-card:hover {
   -webkit-transform: translateY(-5px);
           transform: translateY(-5px);
 }
 
-.single-seku-features-card:hover h3 {
+.single-Randstad Technologies-features-card:hover h3 {
   color: #ffffff;
 }
 
-.single-seku-features-card:hover h3 i {
+.single-Randstad Technologies-features-card:hover h3 i {
   color: #ffffff;
 }
 
-.single-seku-features-card:hover p {
+.single-Randstad Technologies-features-card:hover p {
   color: #ffffff;
 }
 
-.single-seku-features-card:hover::after {
+.single-Randstad Technologies-features-card:hover::after {
   left: 0;
   right: auto;
   width: 100%;
 }
 
-.single-seku-features-card.bg-382549 {
+.single-Randstad Technologies-features-card.bg-382549 {
   background-color: #382549;
 }
 
